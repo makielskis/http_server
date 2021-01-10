@@ -9,8 +9,8 @@
 //
 
 #include "boost/lexical_cast.hpp"
-#include "request_parser.hpp"
-#include "request.hpp"
+#include "http_server/request_parser.hpp"
+#include "http_server/request.hpp"
 
 namespace http {
 namespace server {
